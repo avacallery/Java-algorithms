@@ -7,7 +7,7 @@ public class FlippingBits {
     // (return) convert back to base 10
 
     static long flippingBits(long n) {
-        String binaryString = Long.toBinaryString(n);
+        // String binaryString = Long.toBinaryString(n);
         return 0;
     }
 
