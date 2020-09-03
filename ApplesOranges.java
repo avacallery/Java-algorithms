@@ -1,4 +1,4 @@
-public class Solution {
+public class ApplesOranges {
 
     // Complete the countApplesAndOranges function below.
     static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {
