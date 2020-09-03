@@ -28,10 +28,6 @@ public class FlippingBits {
                 binaryString.setCharAt(i, '0');
         }
 
-        // binaryString is a StringBuilder object which we convert to a string with the
-        // toString() method
-        // valueOf( takes in the string, and the radix) converts it to base 10
-
         long answer = Long.valueOf(binaryString.toString(), 2);
 
         System.out.println(answer);
