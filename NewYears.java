@@ -1,12 +1,10 @@
-package com.avacallery;
-
 // minimumBribes must print the minimum number of bribes needed to get the queue to final state.
 
 // Initial positions increment by 1 from 1 at the front of the line to n at the back
 
 import java.util.*;
 
-public class Main {
+public class NewYears {
 
     static void minimumBribes(int[] q) {
         HashMap<Integer, Integer> hm = new HashMap<>();
